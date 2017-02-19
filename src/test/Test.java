@@ -16,7 +16,7 @@ import java.util.Vector;
 
 /**
  *
- * @author Shama
+ * @author Smit
  */
 public class Test {
 
